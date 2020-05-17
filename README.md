@@ -1,4 +1,6 @@
-# BIAS RECRUITMENT AI
+# BIAS RECRUITMENT AI  
+
+![biasbot](images/bias.png)  
 
 This code brings in the historical recruitment data (`train.csv`) and new candidate data (`test.csv`) then performs a decision/prediction on the new candidates if they will get the job or not. 
 
